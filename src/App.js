@@ -1,5 +1,5 @@
 import React from 'react';
-import RefrigerationCapacityCalculator from './RefrigerationCapacityCalculator';
+import RefrigerationCapacityCalculator from './RefrigerationCapacityCalculator.tsx';
 
 function App() {
   return (
