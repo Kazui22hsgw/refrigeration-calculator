@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/refrigeration-calculator/static/css/main.897c05a0.css",
+    "main.js": "/refrigeration-calculator/static/js/main.f28b84d6.js",
+    "static/js/453.54179221.chunk.js": "/refrigeration-calculator/static/js/453.54179221.chunk.js",
+    "index.html": "/refrigeration-calculator/index.html",
+    "main.897c05a0.css.map": "/refrigeration-calculator/static/css/main.897c05a0.css.map",
+    "main.f28b84d6.js.map": "/refrigeration-calculator/static/js/main.f28b84d6.js.map",
+    "453.54179221.chunk.js.map": "/refrigeration-calculator/static/js/453.54179221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897c05a0.css",
+    "static/js/main.f28b84d6.js"
+  ]
+}
